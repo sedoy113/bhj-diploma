@@ -5,6 +5,12 @@
       "email": "demo@demo",
       "password": "demo",
       "id": "1"
+    },
+    {
+      "name": "test",
+      "email": "test@loc",
+      "password": "123",
+      "id": "1hq1anacgkppr12i0"
     }
   ],
   "accounts": [
